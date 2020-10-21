@@ -66,7 +66,7 @@ a{
 
 %nosotros_parrafo--1 {
   color: #31383f;
-  font-family: $font-texto;
+  font-family: 'Raleway', sans-serif;
   font-size: 0.95rem;
   letter-spacing: 0.2px;
   text-align: left;
@@ -78,18 +78,20 @@ a{
   @extend %nosotros_parrafo--1;
   padding-top: 0.8rem;
 }
-#planificacion .servicios_parrafo--1 {
+.servicios_parrafo--1 {
   @extend %nosotros_parrafo--1;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   padding-top: 0.8rem;
   margin-right:6rem;
 }
+
 #planificacion .texto4_li {
   @extend %nosotros_parrafo--1;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   margin-right: 6rem;
   
 }
+
 .span.texto4_li{
   display: block;
 }

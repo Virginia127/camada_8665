@@ -81,7 +81,7 @@ a {
   padding-top: 2rem;
 }
 
-#planificacion .texto4_li, #planificacion .servicios_parrafo--1, .nosotros_parrafo--2, .nosotros_parrafo--1 {
+#planificacion .texto4_li, .servicios_parrafo--1, .nosotros_parrafo--2, .nosotros_parrafo--1 {
   color: #31383f;
   font-family: "Raleway", sans-serif;
   font-size: 0.95rem;
@@ -93,14 +93,14 @@ a {
   padding-top: 0.8rem;
 }
 
-#planificacion .servicios_parrafo--1 {
-  font-family: "Open Sans", sans-serif;
+.servicios_parrafo--1 {
+  font-family: "Raleway", sans-serif;
   padding-top: 0.8rem;
   margin-right: 6rem;
 }
 
 #planificacion .texto4_li {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   margin-right: 6rem;
 }
 
